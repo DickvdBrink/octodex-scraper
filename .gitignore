@@ -1,0 +1,7 @@
+#dnx/dotnet
+bin
+obj
+project.lock.json
+
+#Octodex-scraper output
+output
